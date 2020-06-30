@@ -1,4 +1,4 @@
-import javafx.application.Application;
+﻿import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -184,7 +184,7 @@ public class HelloJavaFX extends Application {
 
         primaryStage.setScene(scene);
         //primaryStage.initStyle(StageStyle.TRANSPARENT);
-        StageStyle ss = primaryStage.getStyle();
+        //StageStyle ss = primaryStage.getStyle();
 
         primaryStage.show();
         Platform.runLater(() -> {
