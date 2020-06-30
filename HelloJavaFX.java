@@ -22,6 +22,7 @@ import javafx.util.Pair;
 import java.util.Optional;
 //zxf
 //test
+//good
 public class HelloJavaFX extends Application {
     public static void main(String[] args) {
         launch(args);
